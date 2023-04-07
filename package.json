@@ -1,0 +1,23 @@
+{
+    "name": "python",
+    "version": "1.0.0",
+    "description": "",
+    "main": "node-code.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+      },
+      "repository": {
+        "type": "git",
+        "url": "git+https://gitlab.com/aniruddha-radon/eltp-jan-2023-python.git"
+      },
+      "keywords": [],
+      "author": "",
+      "license": "ISC",
+      "bugs": {
+        "url": "https://gitlab.com/aniruddha-radon/eltp-jan-2023-python/issues"
+      },
+      "homepage": "https://gitlab.com/aniruddha-radon/eltp-jan-2023-python#readme",
+      "dependencies": {
+        "express": "^4.18.2"
+      }
+    }
